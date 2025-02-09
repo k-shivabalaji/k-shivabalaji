@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k-shivabalaji
-- 👀 I’m interested in ...electronics
+- 👀 I’m interested in ...electronics and cloud computing
 - 🌱 I’m currently learning ...B.tech ece
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...electronic related and coding related projects
 - 📫 How to reach me ...contact 6385242327
 
 <!---
